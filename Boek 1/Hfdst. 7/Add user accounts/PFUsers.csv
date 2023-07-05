@@ -1,0 +1,18 @@
+Firstname;Lastname;Username;Password;Initials;Description;Office;Telephone;Jobtitle;Department;Manager;OU
+Jolanda;Brands;Jol_Bra;Jol&Bra;;Adjunct Automatisering;B20;4111;Adjunct-directeur;Automatisering;Mad_Sme;Directie
+Henk;Pell;Hen_Pel;Hen&Pel;;Adjunct Verkoop;B17;4131;Adjunct-directeur;Verkoop;Mad_Sme;Directie
+Teus;de Jong;Teu_Jon;Teu&Jon;;Adjunct Adminsitratie;B09;4084;Adjunct-directeur;Administratie;Mad_Sme;Directie
+Dick;Brinkman;Dic_Bri;Dic&Bri;;Adjunct Productie;B05;4612;Adjunct-directeur;Productie;Mad_Sme;Directie
+Danique;Voss;Dan_Vos;Dan&Vos;;Hoofd Staf;B03;4003;Hoofd;Staf;Mad_Sme;Staf
+Loes;Heijnen;Loe_Hei;Loe&Hei;;Receptioniste/Telefoniste;B04;4001;Medewerker;Staf;Mad_Sme;Staf
+Wiel;Nouwen;Wie_Nou;Wie&Nou;;Accountmanager;B16;4077;Medewerker;Verkoop;Hen_Pel;Verkoop
+Dirk;Bogert;Dir_Bog;Dir&Bog;;Boekhouder;B11;4142;Medewerker;Administratie;Teu_Jon;Administratie
+Karin;Visse;Kar_Vis;Kar&Vis;;Secretaresse;B06;4206;Medewerker;Productie;Dic_Bri;Productie
+Herman;Bommel;Her_Bom;Her&Bom;;Inkoper/Magazijnbeheer;W03;4199;Medewerker;Productie;Dic_Bri;Productie
+Doortje;Heijnen;Doo_Hei;Doo&Hei;;Productontwikkelaar;B08;4163;Medewerker;Productie;Dic_Bri;Productie
+Peter;Carprieaux;Pet_Car;Pet&Car;;Hoofd Fabricage;W01;4218;Medewerker;Productie;Dic_Bri;Productie
+Will;Snellen;Wil_Sne;Wil&Sne;;Chef Werkplaats;W05;4200;Chef;Fabricage;Pet_Car;Fabricage
+Niels;Smets;Nie_Sme;Nie&Sme;;Productcontroleur;W02;4251;Medewerker;Fabricage;Pet_Car;Fabricage
+Floris;Flipse;Flo_Fli;Flo&Fli;;Chef Onderhoud;W06;4266;Chef;Fabricage;Pet_Car;Fabricage
+Fons;Willemsen;Fon_Wil;Fon&Wil;;CNC-Programmeur;B18;4208;Medewerker;Automatisering;Jol_Bra;Automatisering
+Student;Naam;Stu_Naa;Stu&Naa;;ICT- en Netwerkbeheerder;B18;4171;Medewerker;Automatisering;Jol_Bra;Automatisering
